@@ -35,4 +35,4 @@ https://share.streamlit.io/sandeepgande/similar-image-search/main/im2im.py
 
 ### Demo
 
-https://media.giphy.com/media/mS43LbgCQoN1sTOlqa/giphy.gif
+![Alt Text](https://media.giphy.com/media/mS43LbgCQoN1sTOlqa/giphy.gif)
